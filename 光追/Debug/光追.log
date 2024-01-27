@@ -1,0 +1,23 @@
+﻿  test.cpp
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(253,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(254,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(428,51): warning C4099: “my_homogeneous_point”: 类型名称以前使用“class”现在使用的是“struct”
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(33): message : 参见“my_homogeneous_point”的声明
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(428,106): warning C4099: “my_homogeneous_point”: 类型名称以前使用“class”现在使用的是“struct”
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(33): message : 参见“my_homogeneous_point”的声明
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(430,42): warning C4099: “my_homogeneous_point”: 类型名称以前使用“class”现在使用的是“struct”
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(33): message : 参见“my_homogeneous_point”的声明
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(439,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(453,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(455,39): warning C4099: “my_homogeneous_point”: 类型名称以前使用“class”现在使用的是“struct”
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(33): message : 参见“my_homogeneous_point”的声明
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(485,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(487,39): warning C4099: “my_homogeneous_point”: 类型名称以前使用“class”现在使用的是“struct”
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(33): message : 参见“my_homogeneous_point”的声明
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(509,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(521,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(668,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(675,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(701,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Hyotei\Downloads\全局光照\光追\光追\test.cpp(709,23): warning C4018: “<”: 有符号/无符号不匹配
+  光追.vcxproj -> C:\Users\Hyotei\Downloads\全局光照\光追\Debug\光追.exe

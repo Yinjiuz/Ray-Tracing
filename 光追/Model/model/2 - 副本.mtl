@@ -1,0 +1,85 @@
+newmtl 
+map_Kd apartment_wall01_1.png
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.15 0.15 0.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 3.00
+newmtl 
+map_Kd apartment_wall02_1.png
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.15 0.15 0.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 3.00
+newmtl
+map_Kd apartment_floor01_1.png
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.15 0.15 0.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 3.00
+newmtl
+map_Kd apartment_floor03_1.png
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.15 0.15 0.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 3.00
+newmtl
+map_Kd apartment_floor02_1.png
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.15 0.15 0.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 3.00
+newmtl
+map_Kd apartment_wall01_1.png
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.15 0.15 0.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 3.00
+newmtl 
+map_kd apartment_wall02_1.png
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.15 0.15 0.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 3.00
+newmtl 
+map_Kd apartment_wall04_1.png
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.15 0.15 0.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 3.00
+newmtl
+map_Kd apartment_wall03_1.png
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.15 0.15 0.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 3.00
+newmtl
+map_Kd apartment_wood_1.png
+illum 4
+Kd 0.80 0.80 0.80
